@@ -1,3 +1,3 @@
-qwertyuiop 10.04.24 20
-asdfghjkla 10.04.24 10
-zxcvbnmaaa 10.03.24 5
+qwertyuiop 10.04.24 00:00:00 20
+asdfghjkla 10.04.24 00:00:00 10
+zxcvbnmaaa 10.03.24 00:00:00 5
